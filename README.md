@@ -68,7 +68,7 @@ Epilogue        — The Balloon Pops
  
 ## How to Read It
  
-**Online:** [GitHub Pages link — enable Pages on this repo to activate]
+**Online:** https://silent-pfil.github.io/Simply-Everything
  
 **Locally:** Download `simply-everything.html` and open it in any browser. No internet connection required after load except for Google Fonts.
  
