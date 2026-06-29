@@ -110,7 +110,7 @@ If you know, you know. If you don't — it's the answer to the ultimate question
 
 ## License
 
-MIT — read it, share it, think about it. If it changes something for you, that's enough.
+No License — read it, share it, think about it. If it changes something for you, that's enough.
 
 ---
 
